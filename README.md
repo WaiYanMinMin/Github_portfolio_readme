@@ -2,7 +2,9 @@
 
 # Wai Yan Min Min
 
-### Machine Learning | Data Science | AI Products
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&text=Wai%20Yan%20Min%20Min&fontAlign=50&fontAlignY=38&color=0:0f172a,50:1d4ed8,100:0ea5e9&fontColor=ffffff&desc=Machine%20Learning%20%7C%20Data%20Science%20%7C%20AI%20Products&descAlignY=60&descSize=18" alt="header" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&center=true&vCenter=true&width=900&lines=Machine+Learning+and+AI+Builder;Data+Science+Student+at+University+of+Hertfordshire;Building+real+projects+with+Python%2C+TypeScript%2C+and+Next.js" alt="Typing SVG" />
 
 [![GitHub followers](https://img.shields.io/github/followers/WaiYanMinMin?style=for-the-badge&logo=github&label=Followers)](https://github.com/WaiYanMinMin)
 [![Profile views](https://komarev.com/ghpvc/?username=WaiYanMinMin&style=for-the-badge&label=Profile+Views)](https://github.com/WaiYanMinMin)
@@ -109,3 +111,7 @@ GitHub image cards are removed to avoid fetch errors from third-party render ser
 - Portfolio: [waiyanportfolio.vercel.app](https://waiyanportfolio.vercel.app)
 - Repositories: [See all projects](https://github.com/WaiYanMinMin?tab=repositories)
 - Email: [waiyanminmin29@gmail.com](mailto:waiyanminmin29@gmail.com)
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f172a,50:1d4ed8,100:0ea5e9" alt="footer" />
+</div>
