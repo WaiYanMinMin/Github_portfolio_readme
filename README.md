@@ -9,7 +9,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/WaiYanMinMin?style=for-the-badge&logo=github&label=Followers)](https://github.com/WaiYanMinMin)
 [![Profile views](https://komarev.com/ghpvc/?username=WaiYanMinMin&style=for-the-badge&label=Profile+Views)](https://github.com/WaiYanMinMin)
 [![Portfolio](https://img.shields.io/badge/Portfolio-waiyanportfolio.vercel.app-0A66C2?style=for-the-badge&logo=vercel)](https://waiyanportfolio.vercel.app)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waiyanminmin29@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=waiyanminmin29@gmail.com)
 
 </div>
 
@@ -110,7 +110,8 @@ GitHub image cards are removed to avoid fetch errors from third-party render ser
 - GitHub: [WaiYanMinMin](https://github.com/WaiYanMinMin)
 - Portfolio: [waiyanportfolio.vercel.app](https://waiyanportfolio.vercel.app)
 - Repositories: [See all projects](https://github.com/WaiYanMinMin?tab=repositories)
-- Email: [waiyanminmin29@gmail.com](mailto:waiyanminmin29@gmail.com)
+- Email (Gmail compose): [Contact me](https://mail.google.com/mail/?view=cm&to=waiyanminmin29@gmail.com)
+- Email (direct): [waiyanminmin29@gmail.com](mailto:waiyanminmin29@gmail.com)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f172a,50:1d4ed8,100:0ea5e9" alt="footer" />
