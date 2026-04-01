@@ -1,7 +1,5 @@
 <div align="center">
 
-# Wai Yan Min Min
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=190&text=Wai%20Yan%20Min%20Min&fontAlign=50&fontAlignY=38&color=0:0f172a,50:1d4ed8,100:0ea5e9&fontColor=ffffff&desc=Machine%20Learning%20%7C%20Data%20Science%20%7C%20AI%20Products&descAlignY=60&descSize=18" alt="header" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&center=true&vCenter=true&width=900&lines=Machine+Learning+and+AI+Builder;Data+Science+Student+at+University+of+Hertfordshire;Building+real+projects+with+Python%2C+TypeScript%2C+and+Next.js" alt="Typing SVG" />
