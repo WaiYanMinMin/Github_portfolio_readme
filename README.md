@@ -1,6 +1,6 @@
 # Wai Yan Min Min
 
-![School Logo](https://linktoyourlogo.com/logo.png)  
+![School Logo](https://github.com/WaiYanMinMin/Github_portfolio_readme/blob/main/UniversityOfHeartfordshire_logo_800px-scaled.jpg)  
 **School:** University of Hertfordshire
 
 ---  
