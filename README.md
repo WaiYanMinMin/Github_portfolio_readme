@@ -1,7 +1,7 @@
 # Wai Yan Min Min
 
 ![School Logo](https://linktoyourlogo.com/logo.png)  
-**School:** Your School Name  
+**School:** University of Hertfordshire
 
 ---  
 
@@ -19,4 +19,4 @@ Welcome to my portfolio! I am a passionate developer eager to learn and grow. He
 ---  
 
 Thank you for visiting my portfolio!  
-Feel free to reach out to me at [your.email@example.com](mailto:your.email@example.com).
+Feel free to reach out to me at [waiyanminmin29@gmail.com](mailto:waiyanminmin29@gmail.com).
